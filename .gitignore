@@ -1,0 +1,24 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Log files
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Optional: VSCode settings (agar nahi chahte git me aaye)
+.vscode/
+
+# Optional: npm debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build folders (optional, agar frontend bhi hai toh)
+dist/
+build/
